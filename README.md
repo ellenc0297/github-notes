@@ -1,7 +1,7 @@
 # github-notes
 ---
 ## Git
-What is Git? Git, is a verison control software 
+What is Git? Git, is a verison control software (Using the command line or other ease-of-use interfaces)
 
 * Git is a verison control that helps you keep track of the entrie history of things you're working on the computer (not just for you)
 * Collaboration = multiple people work on the same file (*dropbox or google docs*)
@@ -9,7 +9,7 @@ What is Git? Git, is a verison control software
 * **"This is a system that you can use to kep track of the history of a project as well as allow many people to collaborate on the project together."**
 
 ## Github
-What is Github? Github is a website where you can do projects that have version control on them
+What is Github? Github is a website where you can do projects or a collaboration that have version control on them
 
 * Github can be called as website or web service
 * Github is a web service to sign up and have an account and do stuff, do Git things, on server, on a website (what I'm doing right now?)
