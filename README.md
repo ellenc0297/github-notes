@@ -21,7 +21,7 @@ What is Repo? Repo, is a centralized digital storage from Github that developers
 * Repository = repo
 * Repo have the thing called **"commit new file"** in the bottom of the screen = save
 * On the top of the screen of **"README.md"** you can separate the section of it (like pages of a chapter?) = single flie
-* Right corner is your edit button = fix anything you will like
+* Right corner is your edit button (pencil) = fix anything you will like
 * There is a section for comment usually for collabrating with other people to help keep track what you added or took out
 
 ## Commit
