@@ -13,16 +13,16 @@ What is Github? Github is a website where you can do projects or a collaboration
 
 * Github can be called as website or web service
 * Github is a web service to sign up and have an account and do stuff, do Git things, on server, on a website (what I'm doing right now?)
-* Github kind of runs the Git software *"behind the scences"* = social coding --> something like social network for projects that can be managed through Git
+* Github kind of runs the Git software *"behind the scenes"* = social coding --> something like social network for projects that can be managed through Git
 
 ## Repo
 What is Repo? Repo, is a centralized digital storage from Github that developers (us) use to make and manage changes to an application's source code (like what I am doing right now?)
 
 * Repository = repo
 * Repo have the thing called **"commit new file"** in the bottom of the screen = save
-* On the top of the screen of **"README.md"** you can separate the section of it (like pages of a chapter?) = single flie
+* On the top of the screen of **"README.md"** you can separate the section of it (like pages of a chapter?) = single file 
 * Right corner is your edit button (pencil) = fix anything you will like
-* There is a section for comment usually for collabrating with other people to help keep track what you added or took out
+* There is a section for comment usually for collaborating with other people to help keep track what you added or took out
 
 ## Commit
 What is Commit? Similar to saving a file that's been edited, a commit records changes to one or more files in your branch. (saving your files)
