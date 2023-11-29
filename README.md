@@ -25,7 +25,7 @@ What is Repo? Repo, is a centralized digital storage from Github that developers
 * There is a section for comment usually for collabrating with other people to help keep track what you added or took out
 
 ## Commit
-What is commit? Similar to saving a file that's been edited, a commit records changes to one or more files in your branch. (saving your files)
+What is Commit? Similar to saving a file that's been edited, a commit records changes to one or more files in your branch. (saving your files)
 
 * Right corner is your edit button = fix anything you will like
 * There is also view history --> a button called *"history"* = it can show you what you changed that moment
