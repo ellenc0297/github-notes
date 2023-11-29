@@ -3,7 +3,7 @@
 ## Git
 What is Git? Git, is a version control software (Using the command line or other ease-of-use interfaces)
 
-* Git is a version control that helps you keep track of the entire history of things you're working on the computer (not just for you)
+* Git is a version control that helps you keep track of the entrie history of things you're working on the computer (not just for you)
 * Collaboration = multiple people work on the same file (*dropbox or google docs*)
 * Git is a type of special tools which has a lot of advance and sophisticated features for collaboration = doesn't have problem with two people working at the same docs
 * **"This is a system that you can use to keep track of the history of a project as well as allow many people to collaborate on the project together."**
